@@ -16,7 +16,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=GhMalak&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="http://dev-memer.info/" width="512px"/>
 
 
 ## 🌐 Socials:
