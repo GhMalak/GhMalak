@@ -6,7 +6,7 @@ Engenheiro de Software Full-Stack e fundador da **[NoxIA](https://noxia.com.br)*
 
 Construo sistemas de IA que rodam em produção: agentes no WhatsApp, RAG sobre base de conhecimento própria, automações com n8n e sistemas web completos, do back-end à infraestrutura.
 
-**Disponível para vagas** de desenvolvimento, IA e automação (presencial, híbrido ou remoto).
+👉 **[Veja meu portfólio](https://ghmalak.github.io)** · **Disponível para vagas** de desenvolvimento, IA e automação (presencial, híbrido ou remoto).
 
 ### O que eu construo
 
@@ -45,4 +45,4 @@ Construo sistemas de IA que rodam em produção: agentes no WhatsApp, RAG sobre 
 
 ### Contato
 
-[LinkedIn](https://www.linkedin.com/in/ghmalak) · gustavo.calasan@gmail.com · [noxia.com.br](https://noxia.com.br)
+**[Portfólio](https://ghmalak.github.io)** · [LinkedIn](https://www.linkedin.com/in/ghmalak) · gustavo.calasan@gmail.com · [noxia.com.br](https://noxia.com.br)
