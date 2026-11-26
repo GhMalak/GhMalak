@@ -18,8 +18,8 @@ Construo sistemas de IA que rodam em produção: agentes no WhatsApp, RAG sobre 
 | Projeto | O que é | Stack |
 |---|---|---|
 | [TraduzSum](https://github.com/GhMalak/traduzsum) | Tradução e simplificação de textos jurídicos com IA | Next.js, TypeScript, Prisma, Stripe, OpenAI |
-| MalaCars | SaaS multi-empresa de gestão de frota | React, TypeScript, FastAPI, Supabase |
-| GAPP | Análise de Planos de Trabalho em PDF e geração de ofícios com IA | FastAPI, Redis, Llama 3.3 (Groq), Next.js, Docker |
+| [MalaCars](https://github.com/GhMalak/malacars) | SaaS multi-empresa de gestão de frota | React, TypeScript, FastAPI, Supabase |
+| [GAPP](https://github.com/GhMalak/gapp) | Análise de Planos de Trabalho em PDF e geração de ofícios com IA | FastAPI, Redis, Llama 3.3 (Groq), Next.js, Docker |
 
 ### Stack
 
