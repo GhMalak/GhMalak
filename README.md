@@ -1,3 +1,5 @@
+<img src="assets/banner.png" alt="Gustavo Malaquias · Engenheiro de Software Full-Stack · IA aplicada" width="100%">
+
 # Olá, eu sou o Gustavo Malaquias 👋
 
 Engenheiro de Software Full-Stack e fundador da **[NoxIA](https://noxia.com.br)**, empresa de automação com IA para clínicas e empreendedores, em Brasília.
